@@ -183,6 +183,38 @@ body {
     }
 }
 
+@media screen and (min-width: 1536px) {
+
+    .cabecalho {
+        max-width: 46%;
+    }
+
+    .principal {
+        max-width: 45%;
+    }
+
+    .titulo {
+        font-size: 56px;
+    }
+
+    .descrito {
+        max-width: 525px;
+        font-size: 27px;
+    }
+
+    .botao1 {
+        width: 160px;
+        height: 50px;
+        font-size: 26px;
+    }
+
+    .botao2 {
+        width: 160px;
+        height: 50px;
+        font-size: 26px;
+    }
+}
+
 @media screen and (max-width: 500px) {
 
     .principal {
