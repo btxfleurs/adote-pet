@@ -316,6 +316,10 @@ fieldset {
         max-width: 500px;
         font-size: 26px;
     }
+    
+    .tete {
+        width: 440px;
+    }
 }
 
 @media screen and (min-width: 1440px) {
