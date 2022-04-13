@@ -365,15 +365,15 @@ fieldset {
     }
 
     .principal {
-        max-width: 45%;
+        max-width: 40%;
     }
 
     .titulo {
-        font-size: 56px;
+        font-size: 54px;
     }
 
     .descrito {
-        max-width: 525px;
+        max-width: 520px;
         font-size: 27px;
     }
 
