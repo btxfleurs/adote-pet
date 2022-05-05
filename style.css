@@ -214,7 +214,7 @@ input::placeholder {
     color: white;
 }
 
-.botao {
+.botao-cadastro {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -241,7 +241,7 @@ input::placeholder {
     letter-spacing: 0.5px;
 }
 
-.botao2 {
+.botao-senha {
     display: flex;
     justify-content: center;
     align-items: center;
