@@ -158,9 +158,9 @@ body {
 
 .tete {
     width: 430px;
-    height: 480px;
+    height: 470px;
     position: absolute;
-    right: 15px;
+    right: 10px;
     cursor: pointer;
 }
 
