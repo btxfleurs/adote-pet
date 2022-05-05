@@ -393,13 +393,13 @@ fieldset {
     }
 }
 
-@media screen and (min-width: 1350px) {
+@media screen and (min-width: 1345px) {
 
     .modal-content {
         display: flex;
         width: 590px;
-        height: 666px;
-        background-size: 590px 660px;
+        height: 655px;
+        background-size: 590px 655px;
         background-repeat: no-repeat;
     }
     
