@@ -158,9 +158,9 @@ body {
 
 .tete {
     width: 430px;
-    height: 480px;
+    height: 470px;
     position: absolute;
-    right: 15px;
+    right: 10px;
     cursor: pointer;
 }
 
@@ -394,7 +394,7 @@ fieldset {
     }
 }
 
-@media screen and (min-width: 1345px) {
+@media screen and (max-width: 1360px) {
 
     .modal-content {
         display: flex;
