@@ -7,6 +7,7 @@
     text-decoration: none;
 }
 
+html,
 body {
     background-image: url(fundoanimais.svg);
     margin: 0px;
@@ -80,7 +81,7 @@ body {
     max-width: 420px;
 }
 
-.botao23 {
+.botao12 {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -213,7 +214,7 @@ input::placeholder {
     color: white;
 }
 
-.bostao {
+.botao {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -240,7 +241,7 @@ input::placeholder {
     letter-spacing: 0.5px;
 }
 
-.bostao2 {
+.botao2 {
     display: flex;
     justify-content: center;
     align-items: center;
